@@ -36,7 +36,7 @@ Still confused, What should I do?
 * Chandan Kumar (chandankumar)
 * David Moreau Simard (dmsimard)
 * Haikel Guemar (number80)
-* Jakub Ruzicka (jruzicka)
+* Jakub Ružička (jruzicka)
 * Javier Pena (jpena)
 * Luigi Toscano (tosky)
 * Rich Bowen (rbowen)
