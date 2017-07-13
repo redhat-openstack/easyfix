@@ -37,6 +37,18 @@ to the RDO project.
 * Add your name and IRC nick to the [mentor list](#mentors)
 * Follow the steps in [I want to add an easy fix issue](#i-want-to-add-an-easyfix-issue)
 
+## Checklist for sending your first RDO gerrit Review:
+
+* [ ] Add the changed files using `git add <modified files>` command.
+* [ ] Then, run `git commit` command, It will open a editor to write a commit message.
+* [ ] In the commit message:
+   * [ ] First line: What you have fixed?
+   * [ ] Second Line: Fixed for issue `RDO easy Fix issue link`
+* [ ] Save the file.
+* [ ] Run `git review` to send the RDO gerrit review.
+* [ ] If something went wrong, you can run `git commit --amend` to change the commit message.
+* [ ] We can download specific RDO gerrit review using `git review -d <RDO review number> `
+
 ## Mentors
 * Alfredo Moralejo (amoralej)
 * Alan Pevec (apevec)
