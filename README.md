@@ -39,6 +39,7 @@ to the RDO project.
 
 ## Checklist for sending your first RDO gerrit Review:
 
+* [ ] Run `git checkout -b easyfix/<#easyfix_issue_number>` to create and checkout to a new branch on the issue you are working
 * [ ] Add the changed files using `git add <modified files>` command.
 * [ ] Then, run `git commit` command, It will open a editor to write a commit message.
 * [ ] In the commit message:
