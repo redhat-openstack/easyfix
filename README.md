@@ -61,3 +61,4 @@ to the RDO project.
 * Luigi Toscano (tosky)
 * Rich Bowen (rbowen)
 * Lars Kellogg-Stedman (larsks)
+* Jon Schlueter (jschlueter/yazug)
