@@ -58,7 +58,6 @@ to the RDO project.
 * Haikel Guemar (number80)
 * Jakub Ružička (jruzicka)
 * Javier Pena (jpena)
-* Luigi Toscano (tosky)
 * Rich Bowen (rbowen)
 * Lars Kellogg-Stedman (larsks)
 * Jon Schlueter (jschlueter/yazug)
