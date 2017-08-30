@@ -13,3 +13,7 @@ for ((i=1;i<=$num;i++)); do ( curl -s "$url?page=${i}&per_page=100" | grep "clon
 ```
 
 Then chmod +x and run the resulting script
+
+You might need to specify the branch, e.g.
+
+git clone https://github.com/rdo-packages/nova-distgit.git --branch rpm-master
